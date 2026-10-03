@@ -181,12 +181,12 @@ Learning Outcomes
 
 After studying this project, the following concepts can be understood:
 
-Context-Free Grammar
-Terminals
-Non-terminals
-Production rules
-Start symbols
-Leftmost derivation
-Derivation trees
-Parse trees
-String generation using CFG
+1.Context-Free Grammar
+2.Terminals
+3.Non-terminals
+4.Production rules
+5.Start symbols
+6.Leftmost derivation
+7.Derivation trees
+8.Parse trees
+9.String generation using CFG
